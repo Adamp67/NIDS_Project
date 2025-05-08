@@ -1,0 +1,7 @@
+*.pkl
+*.zip
+*.parquet
+*.h5
+*.csv
+__pycache__/
+.DS_Store
